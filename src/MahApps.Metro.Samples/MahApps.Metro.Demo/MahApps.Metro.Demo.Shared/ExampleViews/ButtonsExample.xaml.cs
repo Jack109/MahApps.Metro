@@ -24,11 +24,11 @@ namespace MetroDemo.ExampleViews
             this.CountingBadge.Badge = next < 43 ? (object)next : null;
         }
 
-        /*private void SplitButton_OnSelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void SplitButton_OnSelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             var index = ((Selector)sender).SelectedIndex;
             var item = ((Selector)sender).SelectedItem;
             var value = ((Selector)sender).SelectedValue;
-        }*/
+        }
     }
 }
