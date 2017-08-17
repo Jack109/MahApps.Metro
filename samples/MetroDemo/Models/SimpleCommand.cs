@@ -6,7 +6,7 @@ namespace MetroDemo.Models
     public class SimpleCommand : ICommand
     {
         public Predicate<object> CanExecuteDelegate { get; set; }
-        public Action<object> ExecuteDelegate { get; }
+        public Action<object> ExecuteDelegate { get; set; }
 
         public bool CanExecute(object parameter)
         {
