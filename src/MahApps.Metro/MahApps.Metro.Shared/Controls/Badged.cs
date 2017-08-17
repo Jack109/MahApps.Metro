@@ -9,7 +9,7 @@ namespace MahApps.Metro.Controls
     public class Badged : BadgedEx
     {
         public static readonly DependencyProperty BadgeChangedStoryboardProperty = DependencyProperty.Register(
-            "BadgeChangedStoryboard", typeof(Storyboard), typeof(Badged), new PropertyMetadata(default(Storyboard)));
+            "BadgeChangedStoryboard", typeof(Storyboard), typeof(Badged), new PropertyMetadata(default(Storyboard)))
 
         public Storyboard BadgeChangedStoryboard
         {
