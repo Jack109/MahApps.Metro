@@ -72,7 +72,7 @@ namespace Caliburn.Metro.Demo
             
             startupTasks.Apply(s => s());
 
-            
+            DisplayRootViewFor<IShell>();
         }
     }
 }
