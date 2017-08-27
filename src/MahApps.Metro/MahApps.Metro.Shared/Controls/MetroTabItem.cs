@@ -112,7 +112,7 @@ namespace MahApps.Metro.Controls
         public Thickness CloseButtonMargin
         {
             get { return (Thickness)GetValue(CloseButtonMarginProperty); }
-            set { SetValue(CloseButtonMarginProperty, value); }
+            set { SetValue(CloseButtonEnabledProperty, value); }
         }
     }
 }
