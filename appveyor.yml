@@ -1,0 +1,6 @@
+version: 1.0.{build}
+build:
+  verbosity: minimal
+repo_token: lyR0mjatAWVX6gGyKu9oNRYrWeW6Nd74i
+codecov:
+  token: 6743ad16-108e-4735-8448-36f2a11864db
