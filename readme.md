@@ -14,6 +14,8 @@ A toolkit for creating metro-style WPF applications. Lots of goodness out-of-the
 [![TeamCity](https://img.shields.io/teamcity/http/builds.brendanforster.com/s/MahApps_MahAppsMetroDevelopAlpha.svg?style=flat-square&&label=TeamCity%20dev)](http://builds.brendanforster.com/viewType.html?buildTypeId=MahApps_MahAppsMetroDevelopAlpha)
 [![TeamCity](https://img.shields.io/teamcity/http/builds.brendanforster.com/s/MahApps_MahAppsMetroPullRequests.svg?style=flat-square&&label=TeamCity%20PRs)](http://builds.brendanforster.com/viewType.html?buildTypeId=MahApps_MahAppsMetroPullRequests)
 
+[![Coverage Status](https://coveralls.io/repos/github/Jack109/MahApps.Metro/badge.svg?branch=develop)](https://coveralls.io/github/Jack109/MahApps.Metro?branch=develop)
+
 ## Want to say thanks?
 
 This framework is free and can be used for free, open source and commercial applications. It's tested and contributed by many people... So mainly hit the :star: button, that's all... thx :squirrel: (:dollar:, :euro:, :beer: or some other gifts are also being accepted...).
