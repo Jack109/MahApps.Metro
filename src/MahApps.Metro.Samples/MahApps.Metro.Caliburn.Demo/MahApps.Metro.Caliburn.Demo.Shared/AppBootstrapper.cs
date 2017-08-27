@@ -59,8 +59,8 @@ namespace Caliburn.Metro.Demo
             {
                 return exports.First();
             }
-            else
-                throw new Exception(string.Format("Could not locate any instances of contract {0}.", contract));
+            
+            throw new Exception(string.Format("Could not locate any instances of contract {0}.", contract));
         }
 
         protected override void OnStartup(object sender, StartupEventArgs e)
