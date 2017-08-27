@@ -7,6 +7,7 @@ using System.Linq;
 using System.Windows;
 using Caliburn.Metro.Demo.Controls;
 using Caliburn.Micro;
+using System.IO;
 
 namespace Caliburn.Metro.Demo
 {
