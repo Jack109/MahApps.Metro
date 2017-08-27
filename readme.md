@@ -15,6 +15,8 @@ A toolkit for creating metro-style WPF applications. Lots of goodness out-of-the
 [![TeamCity](https://img.shields.io/teamcity/http/builds.brendanforster.com/s/MahApps_MahAppsMetroPullRequests.svg?style=flat-square&&label=TeamCity%20PRs)](http://builds.brendanforster.com/viewType.html?buildTypeId=MahApps_MahAppsMetroPullRequests)
 
 [![Coverage Status](https://coveralls.io/repos/github/Jack109/MahApps.Metro/badge.svg?branch=develop)](https://coveralls.io/github/Jack109/MahApps.Metro?branch=develop)
+[![BCH compliance](https://bettercodehub.com/edge/badge/Jack109/MahApps.Metro?branch=develop)](https://bettercodehub.com/)
+
 
 ## Want to say thanks?
 
