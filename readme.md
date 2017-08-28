@@ -16,6 +16,7 @@ A toolkit for creating metro-style WPF applications. Lots of goodness out-of-the
 
 [![Coverage Status](https://coveralls.io/repos/github/Jack109/MahApps.Metro/badge.svg?branch=develop)](https://coveralls.io/github/Jack109/MahApps.Metro?branch=develop)
 [![BCH compliance](https://bettercodehub.com/edge/badge/Jack109/MahApps.Metro?branch=develop)](https://bettercodehub.com/)
+[![codecov](https://codecov.io/gh/Jack109/MahApps.Metro/branch/develop/graph/badge.svg)](https://codecov.io/gh/Jack109/MahApps.Metro)
 
 
 ## Want to say thanks?
