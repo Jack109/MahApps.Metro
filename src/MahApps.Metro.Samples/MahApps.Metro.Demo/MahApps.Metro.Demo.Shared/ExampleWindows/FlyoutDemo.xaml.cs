@@ -10,7 +10,7 @@ namespace MetroDemo.ExampleWindows
     public partial class FlyoutDemo : IDisposable
     {
         private bool _disposed;
-        private bool _hideOnClose = true
+        private bool _hideOnClose = true;
         
         public FlyoutDemo()
         {
