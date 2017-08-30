@@ -6,6 +6,7 @@ namespace MahApps.Metro
     [Serializable]
     public class MahAppsException : Exception
     {
+        //demow
         public MahAppsException()
         {
         }
